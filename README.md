@@ -1,4 +1,4 @@
-# DT Money
+# Ignite Shop
 
 # <img src="./example-1.png" /> <br/> <br/>
 # <img src="./example-2.png" /> <br/> <br/>
@@ -41,8 +41,6 @@ npm install
 arquivo `.env.local`
 
 ```bash
-# .env.local
-
 STRIPE_PUBLIC_API_KEY=apipublicasemaspas
 STRIPE_SECRET_API_KEY=apiprivadasemaspas
 NEXT_URL=http://localhost:3000
