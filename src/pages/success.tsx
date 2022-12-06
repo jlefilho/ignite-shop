@@ -23,7 +23,7 @@ export default function Success({ customerName, product }:SuccessProps) {
                 <meta name='robots' content='noindex' />
             </Head>
             <SuccessContainer>
-                <h1>Compra efetuada</h1>
+                <h1>Compra efetuada!</h1>
                 
                 <ImageContainer>
                     <Image src={product.imageUrl} width={120} height={110} alt=''/>
